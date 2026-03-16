@@ -15,7 +15,7 @@
 ---
 
 ### 💫 About Me
-* 👤 **Real Name:** Min Thant Naung (aka Metricgralic) || **Born:** 2006
+* 👤 **Real Name:** Min Thant Naung (aka Metricgralic) || **Born:** 2005
 * 🎯 Currently on a journey to master **Full-Stack Development**.
 * 🎨 I have a strong foundation in **UI/UX design**, ensuring the applications I build look as good as they function.
 * 💻 Deep diving into **JavaScript** and **React** to strengthen my technical stack.
