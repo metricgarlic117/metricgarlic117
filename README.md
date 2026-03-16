@@ -1,15 +1,13 @@
 <div align="center">
-  <h2>👋 Hi, I'm Min Thant Naung (aka Metricgralic)</h2>
-  <p><em>A 20-year-old developer bridging the gap between UI/UX design and Full-Stack Development.</em></p>
-</div>
-
-<br/>
-<div align="center">
   <img src="./b236e80c866b149e67159c425eac5aea-ezgif.com-crop.gif" alt="Banner animation" width="100%" />
 </div>
 
 <br/>
 
+<div align="center">
+  <h2>👋 Hi, I'm Min Thant Naung (aka Metricgralic)</h2>
+  <p><em>A 20-year-old developer bridging the gap between UI/UX design and Full-Stack Development.</em></p>
+</div>
 
 ---
 
@@ -22,7 +20,7 @@
 * 🛠️ **Building:** Actively crafting personal projects that blend clean design with solid backend architecture.
 * 🧠 **Studying:** Deepening my expertise in Full-Stack development and exploring the world of Artificial Intelligence.
 * ⌨️ **Workflow:** Living in the terminal—navigating projects and writing code efficiently using **Neovim**.
-
+  
 ---
 
 ### 🌐 Connect with Me
@@ -46,7 +44,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metricgarlic117&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=metricgarlic117&theme=merko&hide_border=false&include_all_commits=false&count_private=false" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metricgarlic117&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="195" alt="Top Languages" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=metricgarlic117&theme=merko&hide_border=false" alt="GitHub Streak" />
 </div>
