@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/b2/36/e8/b236e80c866b149e67159c425eac5aea.gif" alt="Banner animation" width="100%" height="50px"/>
+  <img 
+  src="https://i.pinimg.com/originals/b2/36/e8/b236e80c866b149e67159c425eac5aea.gif" 
+  alt="Banner animation" 
+  style="width: 100%; height: 100px; object-fit: cover;"
+/>
 </div>
 
 # 💫 About Me:
