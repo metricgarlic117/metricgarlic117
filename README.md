@@ -17,9 +17,9 @@
 * 💻 Deep diving into **JavaScript** and **React** to strengthen my technical stack.
 
 ### 🚀 What I'm Up To
-* 🛠️ **Building:** **AlgoMock**, an AI-powered mock interview platform.
-* 📱 **Sharing:** Daily coding insights and tech content over on my dev page, **PolterGit**.
-* ⌨️ **Workflow:** Navigating my projects and writing code efficiently using **Neovim**.
+* 🛠️ **Building:** Actively crafting personal projects that blend clean design with solid backend architecture.
+* 🧠 **Studying:** Deepening my expertise in Full-Stack development and exploring the world of Artificial Intelligence.
+* ⌨️ **Workflow:** Living in the terminal—navigating projects and writing code efficiently using **Neovim**.
 
 ---
 
@@ -44,10 +44,7 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=metricgarlic117&theme=merko&hide_border=true" width="100%" alt="Activity Graph" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=metricgarlic117&theme=merko&hide_border=false&include_all_commits=false&count_private=false" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metricgarlic117&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="195" alt="Top Languages" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metricgarlic117&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="195" alt="Top Languages" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=metricgarlic117&theme=merko&hide_border=false" alt="GitHub Streak" />
 </div>
