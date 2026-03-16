@@ -1,13 +1,17 @@
 <div align="center">
-  <img src="./b236e80c866b149e67159c425eac5aea-ezgif.com-crop.gif" alt="Banner animation" width="100%" />
+  <h2>👋 Hi, I'm Metricgralic</h2>
+  <p><em>A developer bridging the gap between UI/UX design and Full-Stack Development.</em></p>
+</div>
+
+<div align="center">
+  <a>
+    <img src="./b236e80c866b149e67159c425eac5aea-ezgif.com-crop.gif" alt="Banner animation" width="100%" />
+  </a>
 </div>
 
 <br/>
 
-<div align="center">
-  <h2>👋 Hi, I'm Min Thant Naung (aka Metricgralic)</h2>
-  <p><em>A 20-year-old developer bridging the gap between UI/UX design and Full-Stack Development.</em></p>
-</div>
+
 
 ---
 
