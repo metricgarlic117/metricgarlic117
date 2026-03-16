@@ -1,8 +1,8 @@
 <div align="center">
 <img 
-  src="./b236e80c866b149e67159c425eac5aea-ezgif.com-crop.gif" 
+  src="./banner.gif" 
   alt="Banner animation" 
-  style="width: 100vw; height: 100px; object-fit: cover;"
+  style="width: 100vw"
 />
 </div>
 
