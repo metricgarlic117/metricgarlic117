@@ -1,6 +1,6 @@
 <div align="center">
 <img 
-  src="./banner.gif" 
+  src="./b236e80c866b149e67159c425eac5aea.gif" 
   alt="Banner animation" 
   style="width: 100vw"
 />
