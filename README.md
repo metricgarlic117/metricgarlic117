@@ -1,9 +1,4 @@
 <div align="center">
-  <h2>👋 Hi, I'm Metricgralic</h2>
-  <p><em>A developer bridging the gap between UI/UX design and Full-Stack Development.</em></p>
-</div>
-
-<div align="center">
   <a>
     <img src="./b236e80c866b149e67159c425eac5aea-ezgif.com-crop.gif" alt="Banner animation" width="100%" />
   </a>
@@ -11,6 +6,10 @@
 
 <br/>
 
+<div align="center">
+  <h2>👋 Hi, I'm Metricgralic</h2>
+  <p><em>A developer bridging the gap between UI/UX design and Full-Stack Development.</em></p>
+</div>
 
 
 ---
@@ -49,9 +48,11 @@
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=metricgarlic117&theme=merko&hide_border=false&include_all_commits=false&count_private=false" height="195" alt="GitHub Stats" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=metricgarlic117&theme=merko&hide_border=false" alt="GitHub Streak" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metricgarlic117&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="195" alt="Top Languages" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=metricgarlic117&theme=merko&hide_border=false" alt="GitHub Streak" />
+
 </div>
 
 <br/>
