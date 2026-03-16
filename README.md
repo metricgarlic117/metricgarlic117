@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://www.pinterest.com/pin/896990450768325614/" alt="Banner animation" width="100%" />
 </div>
 
 # 💫 About Me:
