@@ -9,12 +9,12 @@
 <div align="center">
   <h2>👋 Hi, I'm Metricgralic</h2>
   <p><em>A developer bridging the gap between UI/UX design and Full-Stack Development.</em></p>
-  <p><img src="https://komarev.com/ghpvc/?username=metricgarlic117&style=flat&color=blue" alt="Profile views" /></p>
 </div>
 
 
 ---
-
+  <p><img src="https://komarev.com/ghpvc/?username=metricgarlic117&style=flat&color=blue" alt="Profile views" /></p>
+  ---
 ### 💫 About Me
 * 👤 **Real Name:** Min Thant Naung (aka Metricgralic) || **Born:** 2005
 * 🎯 Currently on a journey to master **Full-Stack Development**.
