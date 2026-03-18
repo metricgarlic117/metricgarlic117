@@ -14,7 +14,8 @@
 
 ---
   <p><img src="https://komarev.com/ghpvc/?username=metricgarlic117&style=flat&color=blue" alt="Profile views" /></p>
-  ---
+---
+
 ### 💫 About Me
 * 👤 **Real Name:** Min Thant Naung (aka Metricgralic) || **Born:** 2005
 * 🎯 Currently on a journey to master **Full-Stack Development**.
