@@ -99,8 +99,7 @@
 ---
 
 
-### 📊 GitHub Stats
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=metricgarlic117&theme=merko&hide_border=false&include_all_commits=false&count_private=false" height="195" alt="GitHubStats"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=metricgarlic117&theme=merko&hide_border=false" alt="GitHub Streak" />
   <br/>
@@ -116,4 +115,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=metricgarlic117&theme=merko&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
-<br/>
+<br/> -->
