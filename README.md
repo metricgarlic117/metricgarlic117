@@ -16,20 +16,20 @@
 
   
 
-### 💫 About Me
-* 👤 **Real Name:** Min Thant Naung (aka Metricgralic) || **Born:** 2005
-* 🎯 Currently on a journey to master **Full-Stack Development**.
-* 🎨 I have a strong foundation in **UI/UX design**, ensuring the applications I build look as good as they function.
-* 💻 Deep diving into **JavaScript** and **React** to strengthen my technical stack.
+### About Me
+* **Real Name:** Min Thant Naung (aka Metricgralic) || **Born:** 2005
+* Currently on a journey to master **Full-Stack Development**.
+* I have a strong foundation in **UI/UX design**, ensuring the applications I build look as good as they function.
+* Deep diving into **JavaScript** and **React** to strengthen my technical stack.
 
-### 🚀 What I'm Up To
-* 🛠️ **Building:** Actively crafting personal projects that blend clean design with solid backend architecture.
-* 🧠 **Studying:** Deepening my expertise in Full-Stack development and exploring the world of Artificial Intelligence.
-* ⌨️ **Workflow:** Living in the terminal—navigating projects and writing code efficiently using **Neovim**.
+### What I'm Up To
+* **Building:** Actively crafting personal projects that blend clean design with solid backend architecture.
+* **Studying:** Deepening my expertise in Full-Stack development and exploring the world of Artificial Intelligence.
+* **Workflow:** Living in the terminal—navigating projects and writing code efficiently using **Neovim**.
   
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/min-thant-naung-854819319/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:minthantnaung13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -41,7 +41,7 @@
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 **Programming Languages**
 <p align="left">
@@ -111,7 +111,7 @@
 <br/>
 
 <div align="center">
-  <h3>🏆 GitHub Trophies</h3>
+  <h3> GitHub Trophies</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=metricgarlic117&theme=merko&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
