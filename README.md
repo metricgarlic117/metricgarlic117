@@ -25,7 +25,6 @@
 ### What I'm Up To
 * **Building:** Actively crafting personal projects that blend clean design with solid backend architecture.
 * **Studying:** Deepening my expertise in Full-Stack development and exploring the world of Artificial Intelligence.
-* **Workflow:** Living in the terminal—navigating projects and writing code efficiently using **Neovim**.
   
 ---
 
